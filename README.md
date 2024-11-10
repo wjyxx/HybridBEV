@@ -8,11 +8,11 @@ The official implementation of the paper [HybirdBEV: Hybrid Encode and Distillat
 
 ## Dataset structure
 
-It is recommended to symlink the dataset root to `$BEVerse/data`.
+It is recommended to symlink the dataset root to `$data`.
 If your folder structure is different from the following, you may need to change the corresponding paths in config files.
 
 ```
-BEVerse
+HybirdBEV
 ├── mmdet3d
 ├── tools
 ├── configs
@@ -42,8 +42,8 @@ HybirdBEV is developed with the following version of modules.
 **a. Create a conda virtual environment and activate it.**
 
 ```shell
-conda create -n beverse python=3.7 -y
-conda activate beverse
+conda create -n hybird python=3.7 -y
+conda activate hybird
 ```
 
 **b. Install PyTorch and torchvision following the [official instructions](https://pytorch.org/).**
