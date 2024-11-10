@@ -1,6 +1,8 @@
 "# HybridBEV" 
 
-The official implementation of the paper [BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving]
+The official implementation of the paper [HybirdBEV: Hybrid Encode and Distillation for Improved BEV 3D Object Detection]
+
+![HybirdBEV Model](doc/image.png)
 
 # Dataset Preparation
 
