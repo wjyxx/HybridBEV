@@ -16,7 +16,6 @@ HybirdBEV
 ├── mmdet3d
 ├── tools
 ├── configs
-├── projects
 ├── data
 │   ├── nuscenes
 │   │   ├── maps
